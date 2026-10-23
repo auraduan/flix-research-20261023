@@ -1,0 +1,25 @@
+# 本地说明（不上传）
+代码说明.txt
+
+# Arduino / 构建产物
+*.hex
+*.bin
+*.elf
+*.map
+build/
+.pio/
+.vscode/
+.idea/
+*.o
+*.a
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+
+# MiMo / 本地会话
+.mimocode/
